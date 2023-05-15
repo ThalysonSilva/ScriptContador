@@ -1,4 +1,4 @@
-# Automação para diariamente as 12 horas na hora do almoço, o script pegar o relaáorio de contador geral de impressões, e também de contador por usuários. O relátorio vem uma planilha com o formato .CSV, no script contem uma função que converte .csv para .xlsx.
+# Automação para diariamente as 12 horas em horario do almoço, o script pegar o relaáorio de contador geral de impressões, e também de contador por usuários. O relátorio vem uma planilha com o formato .CSV, no script contem uma função que converte .csv para .xlsx.
 
 # Bibliotecas necessarias:
 - PyAutoGui
